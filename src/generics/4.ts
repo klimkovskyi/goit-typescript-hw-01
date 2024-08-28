@@ -1,5 +1,3 @@
-import "./style.css";
-
 type User = {
   name: string;
   surname: string;
